@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="206" started-at="2019-04-02T12:50:06Z" finished-at="2019-04-02T12:50:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="206" started-at="2019-04-02T12:50:06Z" finished-at="2019-04-02T12:50:06Z">
+      <class name="com.freeStyle.Test5">
+        <test-method status="PASS" signature="downloadfilevalidation()[pri:0, instance:com.freeStyle.Test5@7e2d773b]" name="downloadfilevalidation" duration-ms="168" started-at="2019-04-02T12:50:06Z" finished-at="2019-04-02T12:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadfilevalidation -->
+      </class> <!-- com.freeStyle.Test5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
